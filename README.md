@@ -18,6 +18,7 @@
  **请勿使用本仓库直接部署**  
 
   **Heroku修复安全漏洞中，目前无法通过网页从私有库部署**  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/fanyinrumeng/cl)
 
  1. 点击右上角Fork，再点击Create Fork。
  2. 在Fork出来的仓库页面上点击Setting，勾选Template repository。
